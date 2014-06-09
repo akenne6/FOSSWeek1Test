@@ -1,0 +1,2 @@
+This repository was created for Loyola University Chicago's Free and Open Source Software Class in the Summer of 2014.
+It was created as part of a demonstration showing how to set up a GitHub repository using GitBash.
